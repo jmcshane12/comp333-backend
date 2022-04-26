@@ -138,6 +138,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'https://localhost:3000',
+    'https://comp333hw4frontend.web.app',
+    'https://comp333hw4frontend.firebaseapp.com',
 ]
 
 # The absolute path to the directory where collectstatic will collect static files for deployment.
