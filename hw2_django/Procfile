@@ -1,0 +1,1 @@
+web: gunicorn hw2_django.wsgi --log-file -
